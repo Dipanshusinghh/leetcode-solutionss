@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/0048-rotate-image) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0396-rotate-function](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/0396-rotate-function) |
 | [0874-walking-robot-simulation](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/0874-walking-robot-simulation) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/3488-closest-equal-element-queries) |
