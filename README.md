@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2573-find-the-string-with-lcp](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/2573-find-the-string-with-lcp) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Union-Find
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2126-destroying-asteroids](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2463-minimum-total-distance-traveled](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/2751-robot-collisions) |
 | [2784-check-if-array-is-good](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/2784-check-if-array-is-good) |
