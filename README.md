@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/1914-cyclically-rotating-a-grid) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/2126-destroying-asteroids) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/0788-rotated-digits) |
 | [1840-maximum-building-height](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/1840-maximum-building-height) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Bit Manipulation
 |  |
