@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/3488-closest-equal-element-queries) |
+| [3525-find-x-value-of-array-ii](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/3525-find-x-value-of-array-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/3312-sorted-gcd-pair-queries) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3525-find-x-value-of-array-ii](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/3525-find-x-value-of-array-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3161-block-placement-queries](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/3161-block-placement-queries) |
+| [3525-find-x-value-of-array-ii](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/3525-find-x-value-of-array-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Enumeration
 |  |
