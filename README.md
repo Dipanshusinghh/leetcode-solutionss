@@ -436,4 +436,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0177-nth-highest-salary](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/0177-nth-highest-salary) |
 | [0197-rising-temperature](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/0197-rising-temperature) |
 | [0511-game-play-analysis-i](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/0511-game-play-analysis-i) |
+| [0584-find-customer-referee](https://github.com/Dipanshusinghh/https-github.com-Dipanshusinghh-Leetcodee/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
